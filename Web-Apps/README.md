@@ -1,1 +1,0 @@
-Web applications developed for parts of all assignments

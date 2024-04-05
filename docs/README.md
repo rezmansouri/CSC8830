@@ -1,0 +1,1 @@
+This directory contains the executable web applications for the assignments.
